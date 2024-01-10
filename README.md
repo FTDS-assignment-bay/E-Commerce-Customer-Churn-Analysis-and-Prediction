@@ -1,4 +1,4 @@
-# Judul
+# E-Commerce Customer Churn Analysis and Prediction
 ## FTDS-010-HCK-group-001
 **Members**:
 1.  Akram — Data Scientist
@@ -95,4 +95,3 @@ Alternatively, all the models are in the repo for you to use and we also have a 
 
 Furthermore, all of our visualisations are also available on [Tableau](https://public.tableau.com/app/profile/devin.lee1049/viz/Feedback_to_ForesightSimplifying_App_Review_Sentiment_Analysis/Dashboard1?publish=yes).
 
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=13316099&assignment_repo_type=AssignmentRepo)

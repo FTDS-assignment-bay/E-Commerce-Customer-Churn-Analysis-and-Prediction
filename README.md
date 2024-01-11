@@ -93,5 +93,5 @@ Alternatively, all the models are in the repo for you to use and we also have a 
 ## Results
 
 
-Furthermore, all of our visualisations are also available on [Tableau](https://public.tableau.com/app/profile/devin.lee1049/viz/Feedback_to_ForesightSimplifying_App_Review_Sentiment_Analysis/Dashboard1?publish=yes).
+Furthermore, all of our visualisations are also available on [Tableau](https://public.tableau.com/app/profile/carlos.argado/viz/final_project_01_17049562541020/final_dashboard?publish=yes).
 

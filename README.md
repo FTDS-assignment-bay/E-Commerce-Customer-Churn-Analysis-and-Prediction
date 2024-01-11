@@ -87,7 +87,7 @@ docker-compose up -d
 5. Download the cleaned data from PostgreSQL
 6. Run the `modeling.ipynb` file to create the models
 
-Alternatively, all the models are in the repo for you to use and we also have a deployed model on [Huggingface](https://huggingface.co/spaces/fernaldya/FTDS-009-HCK-group-002).
+Alternatively, all the models are in the repo for you to use and we also have a deployed model on [Huggingface](https://huggingface.co/spaces/Muhamadinsani17/Churn_Prediction).
 
 
 ## Results

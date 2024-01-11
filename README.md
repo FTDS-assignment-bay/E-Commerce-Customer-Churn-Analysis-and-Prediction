@@ -3,7 +3,7 @@
 **Members**:
 1.  Akram — Data Scientist
 2.  Carlos Emmanuel Argado— Data Analyst
-3.  Muhammad Insani— Data Analyst
+3.  Muhammad Insani— Data Scientist
 4.  Saepul Hilal— Data Engineer
 
 

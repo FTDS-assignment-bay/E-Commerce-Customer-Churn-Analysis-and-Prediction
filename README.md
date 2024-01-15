@@ -1,10 +1,10 @@
 # E-Commerce Customer Churn Analysis and Prediction
 ## FTDS-010-HCK-group-001
 **Members**:
-1.  Akram — Data Scientist
-2.  Carlos Emmanuel Argado— Data Analyst
-3.  Muhammad Insani— Data Scientist
-4.  Saepul Hilal— Data Engineer
+1.  [Akram](https://github.com/AkramHuwaidiIrnawan) — Data Scientist
+2.  [Carlos Emmanuel Argado](https://github.com/carlosargado)— Data Analyst
+3.  [Muhammad Insani](https://github.com/muhamadinsani17)— Data Scientist
+4.  [Saepul Hilal](https://github.com/saepulhilal)— Data Engineer
 
 
 ## Project Overview

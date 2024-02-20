@@ -30,7 +30,7 @@ default_args  = {
 with DAG(
     'fetching_cleaning',
     default_args=default_args,
-    schedule_interval='00 00 * * 7', # mengatur pengulangan setiap 06.30
+    schedule_interval='06 30 * * *', # mengatur pengulangan setiap 06.30
     ) as dag:
     
     fetching = PythonOperator(
@@ -43,10 +43,10 @@ with DAG(
         python_callable=cleaning_data
     )
 
-    # push_elastic = PythonOperator(
-    #     task_id='Post_to_Elasticsearch',
-    #     python_callable=push_to_elastic
-    # )
+    push_elastic = PythonOperator(
+        task_id='Post_to_Elasticsearch',
+        python_callable=push_to_elastic
+    )
 
     # langkah pelaksanaan
-    fetching >> cleaning #>> push_elastic
+    fetching >> cleaning >> push_elastic
